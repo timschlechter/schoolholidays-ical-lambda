@@ -1,0 +1,11 @@
+{
+  "name": "schoolvakanties-ical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ical.js",
+  "dependencies": {
+    "ical-generator": "^1.0.2"
+  },
+  "author": "",
+  "license": "MIT"
+}
