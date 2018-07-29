@@ -1,6 +1,7 @@
 mkdir -p ./build
 
 cd src
+npm i
 rm -f ../build/package.zip
 zip -r ../build/package.zip .
 
